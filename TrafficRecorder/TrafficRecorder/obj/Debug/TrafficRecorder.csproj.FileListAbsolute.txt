@@ -1,0 +1,35 @@
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.exe.config
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.exe
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.pdb
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.dll
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.pdb
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.xml
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.csprojResolveAssemblyReference.cache
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\MainWindow.g.cs
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\App.g.cs
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder_MarkupCompile.cache
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder_MarkupCompile.lref
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\MainWindow.baml
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.g.resources
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.Properties.Resources.resources
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.csproj.GenerateResource.Cache
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.exe
+C:\Users\shpeng\documents\visual studio 2017\Projects\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.pdb
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.exe.config
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.exe
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\TrafficRecorder.pdb
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.dll
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.pdb
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\bin\Debug\BingMapsRESTToolkit.xml
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.csprojResolveAssemblyReference.cache
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\MainWindow.g.cs
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\App.g.cs
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder_MarkupCompile.cache
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder_MarkupCompile.lref
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\MainWindow.baml
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.g.resources
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.Properties.Resources.resources
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.csproj.GenerateResource.Cache
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.csproj.CoreCompileInputs.cache
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.exe
+C:\GitRoot\TrafficReport\TrafficRecorder\TrafficRecorder\obj\Debug\TrafficRecorder.pdb
